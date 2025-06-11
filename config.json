@@ -1,1 +1,20 @@
-
+[
+  {
+    "name": "🇮🇳 India Direct Line 01",
+    "type": "hysteria2",
+    "server": "140.245.27.220",
+    "port": 51000,
+    "password": "89d48ace-8e1f-47a5-9243-d2b0c0ffb027",
+    "sni": "cn.cremedelamer.com",
+    "skip-cert-verify": true
+  },
+  {
+    "name": "🇮🇳 India Direct Line 02",
+    "type": "hysteria2",
+    "server": "141.148.222.181",
+    "port": 51000,
+    "password": "89d48ace-8e1f-47a5-9243-d2b0c0ffb027",
+    "sni": "cn.cremedelamer.com",
+    "skip-cert-verify": true
+  }
+]
